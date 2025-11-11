@@ -1,0 +1,5 @@
+requests==2.28.1
+beautifulsoup4==4.11.1
+
+immobilienscout24-properties-scraper/.keep
+textThis folder contains input and output data files, no code files.
